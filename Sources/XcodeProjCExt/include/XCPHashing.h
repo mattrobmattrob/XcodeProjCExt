@@ -1,1 +1,1 @@
-const char *XCPComputeMD5(const char *data, int length);
+//const char *XCPComputeMD5(const char *data, int length);
